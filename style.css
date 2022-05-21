@@ -1,0 +1,137 @@
+.header{
+    height: 350px;
+    background-color: #1F2937;
+}
+
+div .header-top{
+
+    padding: 10px;
+    display: flex;
+}
+div .logo{
+    margin-left: 150px;
+    font-size:24px;
+    color: #F9FAF8;
+}
+div .top-right{
+    display: flex;
+    margin-left: 440px;
+    gap: 15px;
+    font-size:18px;
+    color: #E5E7EB;
+}
+div .header-butom{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    gap: 150px;
+
+}
+.content1 , .content2{
+    height: 200px;
+    width: 400px;
+}
+.content2{
+    text-align: center;
+    color: #F9FAF8;
+    background-color: gray;
+}
+.content2 p{
+    margin: 90px 0 0 0;
+}
+.content1{
+    display: flex;
+    flex-direction: column;
+}
+#this{
+    color: #F9FAF8;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+#that{
+    color: #F9FAF8;
+}
+.button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    height: 30px;
+    width: 100px;
+    border-radius: 8px;
+    border-style: none;
+}
+.second{
+    height: 350px;
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.small-box{
+    width: 130px;
+    height: 140px;
+    border: 2px solid #3882F6;
+    border-radius: 15px;
+}
+#info{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.therd-box{
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    font-size: 30px;
+    color: #1F2937;
+}
+.signature{
+    text-align: right;
+    font-weight: bold;
+}
+.cta-main{
+    height:150px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.cta{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 800px;
+    height: 80px;
+    background-color: #3882F6;
+    gap: 100px;
+    border-radius: 8px;
+}
+.cta-q{
+    margin-top: 20px;
+    color: #F9FAF8;
+}
+.button1{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    height: 30px;
+    width: 100px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 25px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    height: 80px;
+}
+.footer p{
+    margin-top: 30px;
+    color: #F9FAF8;
+}
+
+
+
